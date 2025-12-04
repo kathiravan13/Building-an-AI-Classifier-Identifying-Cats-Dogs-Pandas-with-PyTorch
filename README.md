@@ -159,3 +159,7 @@ Validation accuracy
 Sample predictions for Cats, Dogs & Pandas
 Screenshot examples of real-time webcam detection
 ssification
+
+## output:
+![WhatsApp Image 2025-12-04 at 1 14 27 PM](https://github.com/user-attachments/assets/b0c10064-2416-4445-a957-80eb5ddd6d08)
+
